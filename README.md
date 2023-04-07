@@ -1,2 +1,2 @@
 # Farming-Website
-* Front End of the Farming Website Which was developed by @Ajaysingh703
+* Front End of the Farming Website Which was developed by 
